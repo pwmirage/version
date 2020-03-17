@@ -1,27 +1,36 @@
-{"version":7,
-"description":"Rock on!\r\nEntei, foxi, Zeva. Thank you for your contribution! You're the Best!\r\n\r\nv18: Base version\r\n\r\nv19: Added copies of our custom NPCs in their designated locations\r\n\r\nv20: Quest rates increased\r\n\r\nv23: Lunar mat exchange added",
-"patchlist": [
-{"id":2,"hash":"patches/2_misc_crafting.json"},
-{"id":3,"hash":"patches/3_fb_blood_exchange_npc.json"},
-{"id":4,"hash":"patches/4_twilight_temple_exchange_npc.json"},
-{"id":5,"hash":"patches/5_dragon_sphere_system.json"},
-{"id":6,"hash":"patches/6_fc_rehaul.json"},
-{"id":7,"hash":"patches/7_pet_creation_npc.json"},
-{"id":8,"hash":"patches/8_dragon_orbs_2.json"},
-{"id":9,"hash":"patches/9_testtttttt.json"},
-{"id":10,"hash":"patches/10_project_tester_project.json"},
-{"id":11,"hash":"patches/11_crafting_npc.json"},
-{"id":12,"hash":"patches/12_tideborn_removal.json"},
-{"id":13,"hash":"patches/13_veno_npc_rework.json"},
-{"id":14,"hash":"patches/14_gm_test_npc.json"},
-{"id":15,"hash":"patches/15_vote_shop.json"},
-{"id":16,"hash":"patches/16_crafting_percent_editing.json"},
-{"id":17,"hash":"patches/17_mat_exchancing.json"},
-{"id":18,"hash":"patches/18_errors_fixer_1.0.json"},
-{"id":19,"hash":"patches/19_initial_npcs.json"},
-{"id":20,"hash":"patches/20_quest_rates_increased.json"},
-{"id":21,"hash":"patches/21_lunar1.3.json"},
-{"id":22,"hash":"patches/22_lunar_edit_1.0.json"},
-{"id":23,"hash":"patches/23_lunar_edit_1.1.json"},
-]}
+{"version":8,
+"description":"Rock on!
+Entei, foxi, Zeva. Thank you for your contribution! You're the Best!
 
+v18: Base version
+
+v19: Added copies of our custom NPCs in their designated locations
+
+v20: Quest rates increased
+
+v23: Lunar mat exchange added",
+"patchlist":[
+{"id":2,"file":"2_misc_crafting.json"},
+{"id":3,"file":"3_fb_blood_exchange_npc.json"},
+{"id":4,"file":"4_twilight_temple_exchange_npc.json"},
+{"id":5,"file":"5_dragon_sphere_system.json"},
+{"id":6,"file":"6_fc_rehaul.json"},
+{"id":7,"file":"7_pet_creation_npc.json"},
+{"id":8,"file":"8_dragon_orbs_2.json"},
+{"id":9,"file":"9_testtttttt.json"},
+{"id":10,"file":"10_project_tester_project.json"},
+{"id":11,"file":"11_crafting_npc.json"},
+{"id":12,"file":"12_tideborn_removal.json"},
+{"id":13,"file":"13_veno_npc_rework.json"},
+{"id":14,"file":"14_gm_test_npc.json"},
+{"id":15,"file":"15_vote_shop.json"},
+{"id":16,"file":"16_crafting_percent_editing.json"},
+{"id":17,"file":"17_mat_exchancing.json"},
+{"id":18,"file":"18_errors_fixer_1.0.json"},
+{"id":19,"file":"19_initial_npcs.json"},
+{"id":20,"file":"20_quest_rates_increased.json"},
+{"id":21,"file":"21_lunar1.3.json"},
+{"id":22,"file":"22_lunar_edit_1.0.json"},
+{"id":23,"file":"23_lunar_edit_1.1.json"},
+{"id":24,"file":"24_mirage_pet_crafter_rework.json"}
+]}
