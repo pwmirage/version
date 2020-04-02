@@ -36,5 +36,6 @@ v23: Lunar mat exchange added",
 {"id":25,"file":"25_revised_gm_test.json"},
 {"id":26,"file":"26_mirage_fb_exchange_agent_rework.json"},
 {"id":27,"file":"27_initial_quests.json"},
-{"id":28,"file":"28_quests_cleanup.json"}
+{"id":28,"file":"28_quests_cleanup.json"},
+{"id":29,"file":"29_gm_npc_moving.json"}
 ]}
