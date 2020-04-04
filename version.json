@@ -39,5 +39,6 @@ v23: Lunar mat exchange added",
 {"id":28,"file":"28_quests_cleanup.json"},
 {"id":29,"file":"29_gm_npc_moving.json"},
 {"id":30,"file":"30_remove_initial_quests.json"},
-{"id":31,"file":"31_remove_unused_npcs.json"}
+{"id":31,"file":"31_remove_unused_npcs.json"},
+{"id":32,"file":"32_remove_leftover_initial_quests.json"}
 ]}
