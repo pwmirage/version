@@ -44,5 +44,7 @@ v23: Lunar mat exchange added",
 {"id":33,"file":"33_restore_quest_\"the_trainer's_summon\".json"},
 {"id":34,"file":"34_remove_initial_veno_quests.json"},
 {"id":35,"file":"35_tome_revision.json"},
-{"id":36,"file":"36_demon_and_sage_books.json"}
+{"id":36,"file":"36_demon_and_sage_books.json"},
+{"id":37,"file":"37_book_project_fixes.json"},
+{"id":38,"file":"38_revised_eldest_matchmaker.json"}
 ]}
