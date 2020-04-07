@@ -46,5 +46,8 @@ v23: Lunar mat exchange added",
 {"id":35,"file":"35_tome_revision.json"},
 {"id":36,"file":"36_demon_and_sage_books.json"},
 {"id":37,"file":"37_book_project_fixes.json"},
-{"id":38,"file":"38_revised_eldest_matchmaker.json"}
+{"id":38,"file":"38_revised_eldest_matchmaker.json"},
+{"id":39,"file":"39_starter_area_npc_additions.json"},
+{"id":40,"file":"40_revised_gem_merchant.json"},
+{"id":41,"file":"41_mistake_fixer.json"}
 ]}
