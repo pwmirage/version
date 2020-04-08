@@ -52,5 +52,8 @@ v23: Lunar mat exchange added",
 {"id":41,"file":"41_mistake_fixer.json"},
 {"id":42,"file":"42_revised_mirage_fb_exchange_agent.json"},
 {"id":43,"file":"43_mirage_dyes.json"},
-{"id":44,"file":"44_supplemental_additions_v1.json"}
+{"id":44,"file":"44_supplemental_additions_v1.json"},
+{"id":45,"file":"45_revised_fashion_and_dyes.json"},
+{"id":46,"file":"46_revised_vote_shop.json"},
+{"id":47,"file":"47_gem_merchant_fix.json"}
 ]}
