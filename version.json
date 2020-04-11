@@ -58,5 +58,6 @@ v23: Lunar mat exchange added",
 {"id":47,"file":"47_gem_merchant_fix.json"},
 {"id":48,"file":"48_additional_fixes_to_the_fashion_npcs.json"},
 {"id":51,"file":"51_starter_area_update.json"},
-{"id":52,"file":"52_improve_text_on_the_initial_questline.json"}
+{"id":52,"file":"52_improve_text_on_the_initial_questline.json"},
+{"id":53,"file":"53_buff_starting_charms_a_little.json"}
 ]}
