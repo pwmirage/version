@@ -1,18 +1,14 @@
 {"version":9,
-"description":"v53: April 11th:
- * First public release
+"description":"Rock on!
+Entei, foxi, Zeva. Thank you for your contribution! You're the Best!
 
-v53.1: April 11th:
- * Fix being able to complete 'Arrival pt.4' quest multiple times
+v18: Base version
 
-v54: April 11th:
- * Cut charms price at Herbalist Lynn by half
+v19: Added copies of our custom NPCs in their designated locations
 
-v58: April 14th:
- * Added teleacoustics to Herbalist Lynn
- * Increased amount of crafted TP stones at Herbalist Lynn
- * Fixed XP packs at FB Exchange -> They should work now
- * Added Pet skill books to Mirage Pet Crafter",
+v20: Quest rates increased
+
+v23: Lunar mat exchange added",
 "patchlist":[
 {"id":2,"file":"2_misc_crafting.json"},
 {"id":3,"file":"3_fb_blood_exchange_npc.json"},
@@ -68,5 +64,6 @@ v58: April 14th:
 {"id":55,"file":"55_fb_blood_revision.json"},
 {"id":56,"file":"56_fashion..._here_we_go_again.json"},
 {"id":57,"file":"57_veno_pet_skills_project.json"},
-{"id":58,"file":"58_let_me_world_chat_baby.json"}
+{"id":58,"file":"58_let_me_world_chat_baby.json"},
+{"id":59,"file":"59_fb_blood_exchange_fix.json"}
 ]}
